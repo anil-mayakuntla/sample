@@ -1,0 +1,13 @@
+{
+  "DBHost" : "localhost",
+  "Database" : "mapa",
+  "DBUser" : "TestUser",
+  "DBPwd" : "test1234",
+  "DBPort" : 5432,
+  "Tech" : "2G",
+  "Region" : "BHA",
+  "Customer" : "DummyCustomer",
+  "Vendor" : "Huawei",
+  "Country" : "Chad",
+  "Domain" : "Core"
+}
